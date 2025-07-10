@@ -1,6 +1,6 @@
 ### Hi, I'm Deependra Rawat 
 
-[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdeependra33@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deependra.rawat@atgeirsolutions.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deependra-rawat/)
 <br />
 <br />
