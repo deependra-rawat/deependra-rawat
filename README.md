@@ -28,7 +28,7 @@ My interests span the entire spectrum of data science, from data engineering to 
 <img alt = "Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img alt="Vertex AI" src="https://img.shields.io/badge/Vertex%20AI-1A73E8?style=for-the-badge&logo=google&logoColor=white"/>
-<img alt="Agent Development Kit" src="https://img.shields.io/badge/Agent%20Development%20Kit-red"/>
+<img alt="Agent Development Kit" src="https://img.shields.io/badge/Agent%20Development%20Kit-1A73E8?style=for-the-badge&logo=google&logoColor=black"/>
 </p>
 
 
